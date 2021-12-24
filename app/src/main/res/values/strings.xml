@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Inventory Management App</string>
+
+    <string name="Name">Product Name</string>
+
+    <string name="Product_Company">Company</string>
+    <string name="overview">Overview</string>
+    <string name="S_Name">Supplier</string>
+    <string name="supplyName">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="number">Phone Number</string>
+    <string name="code">BarCode</string>
+    <string name="scanbutton">scan</string>
+    <string name="price">Price</string>
+    <string name="Amount">Amount</string>
+</resources>
